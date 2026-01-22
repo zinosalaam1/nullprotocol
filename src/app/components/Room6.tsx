@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import finalImage from 'figma:asset/1a49cb3baae4cf3b9f10e30de216fe42491b7ff7.png';
+// import finalImage from 'figma:asset/1a49cb3baae4cf3b9f10e30de216fe42491b7ff7.png';
 
 interface Room6Props {
   answers: string[];
