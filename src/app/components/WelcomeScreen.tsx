@@ -42,8 +42,8 @@ export function WelcomeScreen({ onSubmit }: WelcomeScreenProps) {
         <div className="text-sm opacity-40 tracking-widest animate-pulse">🕳️ TOUR ARCADE PRESENTS</div>
         <h1 className="text-5xl font-bold tracking-tight animate-glow">THE NULL PROTOCOL</h1>
         <div className="space-y-2 text-sm opacity-60">
-          <p className="animate-slideIn" style={{ animationDelay: '0.2s' }}>Estimated pass rate: ~10%</p>
-          <p className="animate-slideIn" style={{ animationDelay: '0.4s' }}>Difficulty: Extreme</p>
+          <p className="animate-slideIn" style={{ animationDelay: '0.2s' }}>Estimated pass rate: 100%</p>
+          <p className="animate-slideIn" style={{ animationDelay: '0.4s' }}>Difficulty: Easy</p>
           <p className="animate-slideIn" style={{ animationDelay: '0.6s' }}>Style: Silent, logical, meta-cognitive</p>
         </div>
       </div>
