@@ -76,7 +76,7 @@ export function Room6({ answers, username, onRestart }: Room6Props) {
           </div>
 
           <div className="pt-6 space-y-3 text-xs opacity-60 border-t border-white/10 animate-fadeIn" style={{ animationDelay: '2s' }}>
-            <p>🧠 WHY ONLY ~10% ESCAPE</p>
+            <p>🧠 WHY ONLY 100% ESCAPE 😂</p>
             <p>This protocol punishes compliance, rewards ambiguity,</p>
             <p>requires rejecting binary logic, and separates meaning from function.</p>
           </div>
